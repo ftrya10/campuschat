@@ -33,4 +33,8 @@ npm run dev
 ```
 
 ## Developer
+<<<<<<< HEAD
 Fitriya Ramadhani
+=======
+Fitriya Ramadhani
+>>>>>>> 14c578e0cf4bc29185468294e60db40d07d69b33
